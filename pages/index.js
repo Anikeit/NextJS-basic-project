@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 import Header from '../comp/header'
 import Footer from '../comp/footer'
 import Main from '../comp/main'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Home() {
   return (
