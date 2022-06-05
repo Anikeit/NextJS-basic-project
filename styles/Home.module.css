@@ -1,7 +1,5 @@
 .container {
   padding: 0 10rem;
-  /* margin-left: 3rem;
-  margin-right: 3rem; */
 }
 
 .main {
@@ -29,13 +27,6 @@
   color: grey;
   text-align: left;
 }
-
-/* .footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
-} */
 
 .footercol {
   display: flex;
@@ -137,14 +128,6 @@
   display: flex;
   margin-top: 30px;
 }
-
-/* 
-.card:hover,
-.card:focus,
-.card:active {
-  color: #0070f3;
-  border-color: #0070f3;
-} */
 
 .logo {
   height: 1em;
